@@ -1,6 +1,6 @@
 # Assignment 8
 
-Website Name - League of Legends
+<p>Website Name - League of Legends</p>
 Live Site - [League of Legends](https://gallant-brattain-8edf4a.netlify.app)
 
 ## Features
